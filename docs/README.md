@@ -1,3 +1,3 @@
 # KudoAuthentication / certificates
 
-Repository of certificates issued by Kudo Authentication.
+Repository of certificates issued by Kudo Authentication Services.
